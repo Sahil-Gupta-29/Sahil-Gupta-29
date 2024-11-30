@@ -1,13 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Alone+%3C3;GameDeveloper!!!;Welcome+to+my+profile!" alt="Title"></img>
-</div>
+
 ## About
 
-- 💳: My full name is Ayush Tiwari <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- 🏫: I'm currently pursuing B-Tech.
-- 📚: My major is Game Development
-- 🌏: I'm living now in **Lucknow, Uttar Pradesh, India**
-- 😅: I'm a intermediate in coding🐧
+- 💳: My full name is Sahil Gupta <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- 🏫: I'm currently MCA.
+- 📚: My major is cloud computing
+- 🌏: I'm living now in **NOIDA, Uttar Pradesh, India**
 - 🧐: I'm interested in coding, sleeping, and games
 - 😎: My quote is **_"Sometimes you have to act fool to fool the fool who this he is fooling you."_**
 - 👌: Fun fact: have problem 👉: sleep, happy  👉: sleep, sad  👉: sleep ~~ everything  👉: sleep
@@ -86,7 +83,7 @@
 
 <div align="center">
   😍 Thanks for watching my profile! Have a nice day! 😉 <br/>
-  &copy; 2023 Ayush Tiwari
+  &copy; 2024 Sahil gupta
 </div>
 
 ---
