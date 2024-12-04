@@ -67,16 +67,16 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
-  <a href="mailto:xxayushtiwarixx@outlook.com" >
-    <img align="center" alt="Ayush_Tiwari | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="m" >
+    <img align="center" alt=" | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="www.linkedin.com/in/ayush-tiwari-xxalonexx" target="_blank">
-    <img align="center" alt="Ayush_Tiwari | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href=" target="_blank">
+    <img align="center" alt=" | Linkedin" width="24px" src="" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://xxalonexx.netlify.app" target="_blank">
-    <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="" target="_blank">
+    <img align="center" alt="| GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
   
 <p>
